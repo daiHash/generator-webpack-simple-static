@@ -26,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/daiHash/generator-webpack-simple-static/issues"
   },
-  "homepage": "https://github.com/daiHash/generator-webpack-simple-static#readme"
+  "homepage": "https://github.com/daiHash/generator-webpack-simple-static#readme",
+  "dependencies": {
+    "decamelize": "^2.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.0.0"
+  }
 }
