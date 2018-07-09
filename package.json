@@ -1,0 +1,30 @@
+{
+  "name": "generator-webpack-simple-static",
+  "version": "0.0.1",
+  "description": "yeoman generator to build simple static sites with webpack 4 setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiHash/generator-webpack-simple-static.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "javascript",
+    "builder",
+    "scaffold",
+    "generator",
+    "webpack",
+    "webpack",
+    "4",
+    "static-sites"
+  ],
+  "author": "daichi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiHash/generator-webpack-simple-static/issues"
+  },
+  "homepage": "https://github.com/daiHash/generator-webpack-simple-static#readme"
+}
