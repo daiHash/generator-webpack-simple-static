@@ -17,8 +17,7 @@
     "scaffold",
     "generator",
     "webpack",
-    "webpack",
-    "4",
+    "webpack-4",
     "static-sites"
   ],
   "author": "daichi",
