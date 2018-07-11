@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Daichi Hashimura",
+      "authorEmail": "dhashi92@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
