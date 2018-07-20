@@ -10,6 +10,6 @@ npm install --global yo
 # install the generator-webpack-simple-static
 npm install --global generator-webpack-simple-static
 
-# run it
+# run itttttt
 yo webpack-simple-static
 ```
