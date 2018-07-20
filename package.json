@@ -1,6 +1,6 @@
 {
   "name": "generator-webpack-simple-static",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This is a simple project generator using Yeoman with webpack 4 setup to build simple static sites",
   "homepage": "",
   "author": {
