@@ -13,5 +13,3 @@ npm install --global generator-webpack-simple-static
 # run it
 yo webpack-simple-static
 ```
-
-This is the link for the [npm package](https://www.npmjs.com/package/generator-webpack-simple-static)
